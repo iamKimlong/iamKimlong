@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🌱 I am currently pursuing a major in Cybersecurity while supplementing my academic studies with practical cybersecurity training through HackTheBox coursework and participating in Capture The Flag (CTF) competitions, including PicoCTF and various other cybersecurity challenges.
-- 🔭 I am actively developing personal projects focused on scripting and automation using Python, Lua, and C programming languages.
+- 🌱 I am currently pursuing a major in Cybersecurity while supplementing my academic studies with practical cybersecurity training through HackTheBox coursework and participating in CTF competitions, including PicoCTF and various other cybersecurity challenges.
+- 🔭 I am actively developing personal projects focused on scripting and automation using Rust, Lua, Python, and C programming languages.
 
 <!--
 **iamKimlong/iamKimlong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
