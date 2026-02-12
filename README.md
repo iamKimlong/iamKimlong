@@ -1,19 +1,11 @@
-## Hi there 👋
+## Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-- 🌱 I am currently pursuing a major in Cybersecurity while supplementing my academic studies with practical cybersecurity training through HackTheBox coursework and participating in CTF competitions, including PicoCTF and various other cybersecurity challenges.
-- 🔭 I am actively developing personal projects focused on scripting and automation using Lua, Python, Bash, and Rust.
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kimlong-heng-638b1924b) 
+<img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width=30>
 
-<!--
-**iamKimlong/iamKimlong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently majoring in Cybersecurity and building hands-on experience alongside my studies through Hack The Box labs and CTF competitions such as PicoCTF and other security challenges.
+
+🔭 Outside of coursework, I work on personal projects centered around scripting and automation, mainly using Lua, Python, Bash, and Rust.
